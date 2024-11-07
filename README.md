@@ -1,7 +1,7 @@
 # Design-Velossa Tutorial
 Chào mừng đến với kho thiết kế của Velossa.
 Để chuẩn bị cho dự hãy cài extension của github, và nodejs
-- [Tải extension của githun: GIT](https://git-scm.com/downloads/win)
+- [Tải extension của github: GIT](https://git-scm.com/downloads/win)
 - [Tải và cài nodejs](https://nodejs.org/en/download/prebuilt-installer)
 
 
