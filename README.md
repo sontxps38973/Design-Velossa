@@ -12,7 +12,7 @@ Mở thư mục nơi cần lưu dự án -> chuột phải -> GitBash here
 git clone https://github.com/sontxps38973/Design-Velossa.git
 
 
-Dự án sẽ xuất hiện trong thư mục
+###Dự án sẽ xuất hiện trong thư mục
 Sử dụng termiral trong VSCODE để thực hiện
 Bước đầu tiên khi truy cập một dự án. Hãy kiểm tra nhánh của mình. Chỉ code ở trong nhánh của mình
 - Kiểm tra nhánh hiện tại
