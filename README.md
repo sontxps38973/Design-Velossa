@@ -50,7 +50,10 @@ git add .
 ```bash
 git commit -m "Nội dung đã thực hiện"
 ```
-
+Sau khi đã hoàn tất commit, cỏ thể kiểm tra trạng thái bằng
+```bash
+git log
+```
 
 
 ### Đó là toàn bộ những câu lệnh cần dùng khi thực hiện dự án. Mọi thăc mắc hay sai sót gì hãy liên hệ Trịnh Xuân Sơn để được hỗ trợ và tư vấn
