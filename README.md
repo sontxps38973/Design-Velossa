@@ -36,10 +36,10 @@ Lưu ý quan trọng : Mỗi khi mở máy lên. Bước đầu tiên hãy fectc
 ```bash
 git fetch
 ```
-Nếu có các cập nhật từ nhánh khác. Merge vào nhánh của mình
+Nếu có các cập nhật từ nhánh khác. Merge vào nhánh của mình(chỉ có thể merge sau khi người khác đã commit)
 - Merge
 ```bash 
-git merge tên-nhánh-của-mình/tên nhánh khác
+git merge tên-nhánh-khác tên-nhánh-của-mình
 ```
 Khi đã hoàn thành chức năng/nhiệm vụ của mình hãy commit để người khác thấy được thay đổi
 - ADD
