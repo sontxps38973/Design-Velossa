@@ -1,0 +1,123 @@
+:root {
+            --mauchu: #0049AD;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f7f7f7;
+        }
+
+        .container {
+            width: 400px;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .logo {
+            width: 160px;
+            transform: scale(1.5);
+            margin-left: 11px;
+        }
+
+        .container p {
+            font-size: 15px;
+            color: var(--mauchu);
+            margin: 0;
+        }
+
+        .input-group {
+            width: 100%;
+            margin: 20px 0;
+            text-align: left;
+            position: relative;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .input-group img {
+            width: 16px;
+            height: 16px;
+            position: absolute;
+            left: 13px;
+            top: 15px;
+            opacity: 0.5;
+        }
+
+        .input-group input {
+            width: 100%;
+            height: 50px;
+            font-size: 16px;
+            border: 1px solid var(--mauchu);
+            border-radius: 4px;
+            box-sizing: border-box;
+            padding-left: 40px;
+            font-weight: 500;
+            color: var(--mauchu);
+        }
+
+        .input-group input:focus {
+            outline: 1 solid var(--mauchu);
+        }
+
+        .input-group input::placeholder {
+            color: var(--mauchu);
+            border: var(--mauchu);
+        }
+
+        input:-webkit-autofill {
+            -webkit-text-fill-color: var(--mauchu) !important;                  /* Đảm bảo rằng màu chữ khi autofill được điền vào là màu xanh */
+        }
+        
+        
+        .quenmk{
+            float: right;
+        }
+
+        .quenmk a{
+            color: #ff0000;
+            text-decoration: none;
+        }
+
+
+        .btn {
+            width: 100%;
+            padding: 18px;
+            font-size: 18px;
+            color: #ffffff;
+            background-color: #ffaa00;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 10px;
+            margin-bottom: 30px;
+            font-weight: 600;
+        }
+
+        .btn:hover {
+            background-color: #ffcc00;
+        }
+
+        .register-link {
+            text-align: center;
+            font-size: 14px;
+            color: #333333;
+            margin-top: 15px;
+            gap: 5px;
+        }
+
+        .register-link a {
+            color: #ff0000;
+            text-decoration: none;
+        }
+
+        .register-link a:hover {
+            text-decoration: none;
+        }
+        
