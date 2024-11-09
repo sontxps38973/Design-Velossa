@@ -12,6 +12,10 @@
             background-color: #f7f7f7;
         }
 
+        a{
+            text-decoration: none;
+        }
+
         .container {
             width: 400px;
             padding: 20px;
@@ -98,6 +102,10 @@
             margin-top: 10px;
             margin-bottom: 30px;
             font-weight: 600;
+        }
+
+        .btn a{
+            color: #fff;
         }
 
         .btn:hover {
